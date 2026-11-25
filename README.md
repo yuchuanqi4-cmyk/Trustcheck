@@ -37,8 +37,7 @@ The browser check requires Python Playwright and Chromium at `/usr/bin/chromium`
 
 ## AI assistance
 
-ChatGPT helped propose the scope, draft the interface, question bank, rule logic, tests, README, architecture diagram, storyboards and report. Automated checks were run against the generated code and example outputs. The student should inspect the code, reproduce the flows, verify the linked sources and update this record with their own checks and changes before submission.
-
+ChatGPT helped propose the scope, draft the interface, rule logic, tests, README, architecture diagram and storyboards. 
 ## Additional files
 
-`docs/` contains screenshots from the automated browser walkthrough, the system architecture diagram and three screenshot-based storyboards. `tests/` contains repeatable checks. The report is submitted separately. No additional ZIP is needed once these project files are uploaded to the public repository. Repository publication and the submitted commit identifier are pending.
+`docs/` contains screenshots from the automated browser walkthrough, the system architecture diagram and three screenshot-based storyboards. `tests/` contains repeatable checks. The report is submitted separately. No additional ZIP is needed once these project files are uploaded to the public repository.
